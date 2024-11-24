@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! The name is Taki! A software engineer with a profound quest for Existential Understanding. I Hate complexity and am obsessed with the intricacies of software engineering challenges.
+Hello! The name is Taki! A software engineer with a profound quest for Existential Understanding.
 
-**Golang**, **Rust**, and **Python** are my trusted companions, each with its own quirks and powers.
-
-In my freetime I enjoy spending time with my *Nouss*, delve into the abyss of the existential melancholy with *Ghiles* and watch huge machinery videos.
+In my free time I enjoy spending time with my *Nouss*, delve into the abyss of the existential melancholy with *Ghiles* and watch huge machinery videos.
 
 <!-- HTML -->
 <div class="profile-picture">
