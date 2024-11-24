@@ -21,17 +21,16 @@
 title: Debugging the Universe
 email: takiedd.mekhalfa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Insights on Programming and Engineering and Life.
+  Insights on Programming, Engineering and Life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  taki-mekhalfa
+github_username: taki-mekhalfa
 linkedin_username: taki-mekhalfa-7809a4189
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
