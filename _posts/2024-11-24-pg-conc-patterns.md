@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Database Concurrency Patterns For Developers"
-categories: misc
+categories: tech
 ---
 
 I have been developing applications interacting with databases for many years now and I have always taken concurrency for granted. I looked at the database as a black box and I never had to think about concurrency issues assuming that the database would handle it for me.

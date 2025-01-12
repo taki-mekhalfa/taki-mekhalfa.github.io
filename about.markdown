@@ -6,7 +6,9 @@ permalink: /about/
 
 Hello! The name is Taki! A software engineer with a profound quest for Existential Understanding.
 
-In my free time I enjoy spending time with my *Nouss*, delve into the abyss of the existential melancholy with *Ghiles* and watch huge machinery videos.
+In my free time I enjoy delving into the abyss of the existential melancholy with *Ghiles* and watch huge machinery videos.
+
+My motto is: Qui docet, discit.
 
 <!-- HTML -->
 <div class="profile-picture">

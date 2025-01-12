@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The beauty of OLAP SQL"
-categories: misc
+categories: tech
 ---
 
 In my daily job, I develop backends for analytical dashboards that show graphs to users to help them better understand their data.
